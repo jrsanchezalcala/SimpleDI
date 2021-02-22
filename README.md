@@ -4,7 +4,7 @@ Its use is very easy, i use in react projects to access services for call REST.
 Use case:
 In main file of the project just create your services an set into DI object
 ```javascript
-import DI from "SimpleDI";
+import {DI} from "simpledi-jr";
 
 let service = new Service();
 DI.add(service);
