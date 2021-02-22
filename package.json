@@ -1,6 +1,6 @@
 {
   "name": "simpledi-jr",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Just a Simple Dependenci Injection helper class",
   "main": "./dist/DI.js",
   "scripts": {
